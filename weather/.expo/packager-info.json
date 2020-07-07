@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 29336,
+  "expoServerNgrokUrl": "https://j4-ggh.anonymous.weather.exp.direct",
+  "packagerNgrokUrl": "https://packager.j4-ggh.anonymous.weather.exp.direct",
+  "ngrokPid": 30084,
   "webpackServerPort": null
 }
